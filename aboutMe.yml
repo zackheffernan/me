@@ -2,6 +2,6 @@ name: Zack Heffernan
 studentNumber: z5208841
 gitHubUsername: zackheffernan
 unswEmail: z5208841@ad.unsw.edu.au
-realEmail: zackheff12@gmail.com
-  firstBit: zackheff12  # this avoids spam, the @ is implied
+realEmail:
+  firstBit: zackheff12
   otherBit: gmail.com
